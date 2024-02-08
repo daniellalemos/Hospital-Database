@@ -1,9 +1,9 @@
 <img src='logo.png' width='150'>
 
 
-# Relational Database system for scheduling exams in a hospital
+# Relational Database system for scheduling exams in a clinic
 
-Scheduling and conducting imaging exams of different modalities and types at a specific hospital.
+Scheduling and conducting imaging exams of different modalities and types at a specific clinic.
 
 ## Contextualization
 
