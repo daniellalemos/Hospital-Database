@@ -1,25 +1,27 @@
 <img src='logo.png' width='150'>
 
 
-# Base-de-Dados
+# Relational Database system for scheduling exams in a hospital
 
-Agendamento e realização de exames imagiológicos de diferentes modalidades e tipos num determinado hospital.
+Scheduling and conducting imaging exams of different modalities and types at a specific hospital.
 
-## Contextualização
+## Contextualization
 
-A enorme expansão tecnológica despoletou uma maior procura na área da inovação informática por parte das empresas gerando, desta forma, uma maior competitividade entre as mesmas.
+The enormous technological expansion has triggered a greater demand in the field of computer innovation by companies, thus generating increased competitiveness among them.
 
-Desta forma, surge o nosso trabalho relativo a uma clínica privada, cuja não possui uma base de dados adequada para a marcação de exames imagiológicos. Esta base de dados que será criada é de extrema necessidade, uma vez que facilitará o processo de marcação e agilizará todo o processo de organização e melhor cumprimento de horários estabelecidos. Tendo em consideração as infindáveis listas de espera para a realização de exames no setor público, urge a procura de melhores alternativas como é o caso da nossa clínica. Todavia, por consequência desta grande adesão e afluência fruto da incapacidade de resposta do setor público, estes eventos despoletaram um crescimento exponencial da clínica de exames imagiológicos, tendo-se instalado o caos.
+In this way, our work arises regarding a private clinic, which does not have an adequate database for scheduling imaging exams. This database to be created is of utmost necessity, as it will facilitate the scheduling process and streamline the entire organization process, ensuring better adherence to established schedules.
+Considering the endless waiting lists for exams in the public sector, there is an urgent need to seek better alternatives, such as our clinic. However, as a consequence of this widespread adoption and influx due to the public sector's inability to respond, these events have triggered an exponential growth of the imaging exam clinic, leading to chaos.
 
-Para tal, a clínica em questão, de modo a melhorar o seu desempenho, decidiu procurar informatizar os dados dos pacientes e os respetivos exames para uma base de dados. Esta iniciativa deve-se ao aumento da procura do estabelecimento, redução do tempo e facilita o acesso de dados, bem como auxilia na gestão e processamento dos dados em causa.
+To improve its performance, the clinic in question has decided to computerize patient data and their respective exams into a database. This initiative is due to the increased demand for the establishment, reducing time and facilitating data access, as well as assisting in the management and processing of the data in question.
 
-Assim, procede-se ao desenvolvimento de uma base de dados capaz de agregar toda a informação necessária correspondente a cada paciente.
+Thus, the development of a database capable of aggregating all necessary information corresponding to each patient is underway.
 
-## Motivos e Objetivos
+## Goals
 
-Este trabalho prático visa a implementação de uma possível base de dados funcional que poderá ser útil numa clínica de exames imagiológicos. Esta base de dados deverá responder a toda as exigências requeridas para um bom funcionamento do agendamento e realização de exames. Deste modo, pretende-se com o auxílio da linguagem SQL e da modelação, elaborar um sistema viável e eficiente capaz de suportar uma aplicação de gestão de marcações na clínica.
+This practical work aims to implement a possible functional database that could be useful in an imaging exam clinic.
+This database should meet all the requirements necessary for the proper scheduling and conduct of exams. Therefore, with the assistance of SQL language and modeling, the objective is to develop a viable and efficient system capable of supporting a scheduling management application in the clinic.
 
-## Autores:
+## Authors
 
 - Alexandra Coelho (PG45458)
 - Andreia Gomes (PG45463)
